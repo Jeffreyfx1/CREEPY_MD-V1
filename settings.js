@@ -11,15 +11,15 @@ const chalk = require('chalk')
 
 //------- [put your credintials below]------//
 
-global.SESSION_ID = process.env.SESSION_ID || "SESSION_ID_HERE" // session id
+global.SESSION_ID = process.env.SESSION_ID || "CREEPY-DsIkAJZT#vFiXr6xWQs1x5XbHjYJ6MSAjeHWLdM89VJEnkdn9JeI-Danny" // session id
 
 
-global.ownernomer = process.env.OWNER_NUMBER || "255697608274"
+global.ownernomer = process.env.OWNER_NUMBER || "2349046157539"
 
-global.ownername = process.env.OWNER_NAME || "𝐷𝛥𝛮𝛮𝑌"
+global.ownername = process.env.OWNER_NAME || "JEFFREY"
 
 
-global.ownernumber = process.env.OWNER_NUMBER2 || '255697608274'  
+global.ownernumber = process.env.OWNER_NUMBER2 || '2349046157539'  
 
 
 //put your phone number above
@@ -46,7 +46,7 @@ global.autorecordtype = false //auto typing + recording
 
 global.autoread = false //auto read messages
 
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 
 global.anti91 = false //auto block +91 
 
