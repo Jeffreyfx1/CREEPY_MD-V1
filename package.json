@@ -7,7 +7,7 @@
     "directories": {
         "lib": "lib",
         "database": "database",
-        "session": "session",
+        "session": "creepy-session",
         "media": "DannyTechMedia"
     },
     "scripts": {
